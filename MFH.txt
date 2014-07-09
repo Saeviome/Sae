@@ -1,6 +1,6 @@
 # ---My Fav Hosts---
 
-111.92.236.50	18p2p.com	www.18p2p.com
+111.92.236.50	18p2p.com www.18p2p.com
 
 #Google Services START
 
