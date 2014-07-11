@@ -531,5 +531,5 @@
 
 210.242.125.55	plus.google.com
 210.242.125.55	plus.url.google.com
-210.242.125.55	plusone.google.com
+210.242.125.55 	plusone.google.com
 #Google Services END
