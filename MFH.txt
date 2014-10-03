@@ -1,6 +1,6 @@
 # ---My Fav Hosts---
 
-###
+127.0.0.1	localhost
 
 #Google Services START
 
@@ -56,6 +56,8 @@
 58.145.238.27	bks7.books.google.com
 58.145.238.27	bks8.books.google.com
 58.145.238.27	bks9.books.google.com
+58.145.238.27	blogger.google.com
+58.145.238.27	blogger.l.google.com
 58.145.238.27	blogsearch.google.com
 58.145.238.27	books.google.com
 58.145.238.27	browserchannel-docs.l.google.com
@@ -122,6 +124,7 @@
 58.145.238.27	drive9.google.com
 58.145.238.27	earth.google.com
 58.145.238.27	encrypted.google.com
+58.145.238.27	googlehosted.l.google.com
 58.145.238.27	encrypted-tbn.l.google.com
 58.145.238.27	encrypted-tbn0.google.com
 58.145.238.27	encrypted-tbn1.google.com
@@ -186,6 +189,12 @@
 58.145.238.27	map.google.com
 58.145.238.27	maps.google.com
 58.145.238.27	maps.l.google.com
+58.145.238.27	*.docs.google.com
+58.145.238.27	*.drive.google.com
+58.145.238.27	*.mail.google.com
+58.145.238.27	*.plus.google.com
+58.145.238.27	*.sites.google.com
+58.145.238.27	*.talkgadget.google.com
 58.145.238.27	maps-api-ssl.google.com
 58.145.238.27	mars.google.com
 58.145.238.27	mobile.l.google.com
@@ -197,7 +206,7 @@
 58.145.238.27	mt1.google.com
 58.145.238.27	mt2.google.com
 58.145.238.27	mt3.google.com
-#58.145.238.27	mtalk.google.com
+58.145.238.27	mtalk.google.com
 58.145.238.27	mts.google.com
 58.145.238.27	mts.l.google.com
 58.145.238.27	mts0.google.com
@@ -221,6 +230,8 @@
 58.145.238.27	productforums.google.com
 58.145.238.27	profiles.google.com
 58.145.238.27	reader.google.com
+58.145.238.27	docs.google.com
+58.145.238.27	drive.google.com
 58.145.238.27	safebrowsing.cache.l.google.com
 58.145.238.27	safebrowsing.clients.google.com
 58.145.238.27	safebrowsing.google.com
@@ -255,11 +266,16 @@
 58.145.238.27	suggestqueries.l.google.com
 58.145.238.27	support.google.com
 58.145.238.27	talk.google.com
+58.145.238.27	talkx.l.google.com
+58.145.238.27	talk.l.google.com
 58.145.238.27	talkgadget.google.com
 58.145.238.27	tbn0.google.com
 58.145.238.27	tbn1.google.com
 58.145.238.27	tbn2.google.com
 58.145.238.27	tbn3.google.com
+58.145.238.27	tbn4.google.com
+58.145.238.27	tbn5.google.com
+58.145.238.27	tbn6.google.com
 58.145.238.27	toolbar.google.com
 58.145.238.27	toolbarqueries.clients.google.com
 58.145.238.27	toolbarqueries.google.com
@@ -267,6 +283,7 @@
 58.145.238.27	tools.google.com
 58.145.238.27	tools.l.google.com
 58.145.238.27	translate.google.com
+58.145.238.27	uploads.clients.google.com
 58.145.238.27	trends.google.com
 58.145.238.27	upload.docs.google.com
 58.145.238.27	upload.drive.google.com
@@ -290,6 +307,10 @@
 58.145.238.27	www3.l.google.com
 58.145.238.27	www4.l.google.com
 58.145.238.27	ytstatic.l.google.com
+
+58.145.238.27	clients2.google.com
+58.145.238.27	android.clients.google.com
+58.145.238.27	android.l.google.com
 
 58.145.238.27	0-open-opensocial.googleusercontent.com
 58.145.238.27	0-focus-opensocial.googleusercontent.com
@@ -320,6 +341,7 @@
 58.145.238.27	clients6.googleusercontent.com
 58.145.238.27	clients7.googleusercontent.com
 58.145.238.27	code-opensocial.googleusercontent.com
+58.145.238.27	doc-0k-1s-docs.googleusercontent.com
 58.145.238.27	debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
 58.145.238.27	doc-00-7o-docs.googleusercontent.com
 58.145.238.27	doc-08-7o-docs.googleusercontent.com
@@ -348,6 +370,15 @@
 58.145.238.27	images7-focus-opensocial.googleusercontent.com
 58.145.238.27	images8-focus-opensocial.googleusercontent.com
 58.145.238.27	images9-focus-opensocial.googleusercontent.com
+58.145.238.27	images1-esmobile-opensocial.googleusercontent.com
+58.145.238.27	images2-esmobile-opensocial.googleusercontent.com
+58.145.238.27	images3-esmobile-opensocial.googleusercontent.com
+58.145.238.27	images4-esmobile-opensocial.googleusercontent.com
+58.145.238.27	images5-esmobile-opensocial.googleusercontent.com
+58.145.238.27	images6-esmobile-opensocial.googleusercontent.com
+58.145.238.27	images7-esmobile-opensocial.googleusercontent.com
+58.145.238.27	images8-esmobile-opensocial.googleusercontent.com
+58.145.238.27	images9-esmobile-opensocial.googleusercontent.com
 58.145.238.27	images-docs-opensocial.googleusercontent.com
 58.145.238.27	images-oz-opensocial.googleusercontent.com
 58.145.238.27	k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
@@ -430,6 +461,7 @@
 58.145.238.27	evolutionofweb.appspot.com
 58.145.238.27	googcloudlabs.appspot.com
 58.145.238.27	gv-gadget.appspot.com
+58.145.238.27	magnifier.blogspot.com
 58.145.238.27	moderator.appspot.com
 58.145.238.27	newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
 58.145.238.27	productideas.appspot.com
@@ -456,6 +488,14 @@
 58.145.238.27	redirector-bigcache.googleapis.com
 58.145.238.27	translate.googleapis.com
 58.145.238.27	www.googleapis.com
+58.145.238.27	android.googleapis.com
+58.145.238.27	buttons.googlesyndication.com
+58.145.238.27	base0.googlehosted.com
+58.145.238.27	base1.googlehosted.com
+58.145.238.27	base2.googlehosted.com
+58.145.238.27	base3.googlehosted.com
+58.145.238.27	base4.googlehosted.com
+58.145.238.27	base5.googlehosted.com
 
 58.145.238.27	autoproxy-gfwlist.googlecode.com
 58.145.238.27	chromium.googlecode.com
@@ -515,7 +555,7 @@
 58.145.238.27	g.co
 58.145.238.27	goo.gl
 58.145.238.27	listen.googlelabs.com
-58.145.238.27	magnifier.blogspot.com
+58.145.238.27	m.googlemail.com
 58.145.238.27	market.android.com
 58.145.238.27	ngrams.googlelabs.com
 58.145.238.27	panoramio.com
@@ -531,5 +571,33 @@
 
 58.145.238.27	plus.google.com
 58.145.238.27	plus.url.google.com
-58.145.238.27  	plusone.google.com
+58.145.238.27	plusone.google.com
+
+58.145.238.27	lfe-alpo-gm.appspot.com
+58.145.238.27	img0.gmodules.com
+
+# Google Play Download
+58.145.238.27	r1---sn-i3b7sn7d.c.android.clients.google.com
+58.145.238.27	r2---sn-npo7enee.c.android.clients.google.com
+58.145.238.27	r3---sn-30a7en7d.c.android.clients.google.com
+58.145.238.27	r5---sn-npo7ene7.c.android.clients.google.com
+58.145.238.27	r6---sn-npo7enel.c.android.clients.google.com
+58.145.238.27	r7---sn-o097zuel.c.android.clients.google.com
+58.145.238.27	r8---pek01s02.c.android.clients.google.com
+58.145.238.27	r8---sn-30a7en7z.c.android.clients.google.com
+58.145.238.27	r9---sn-i3b7sn7k.c.android.clients.google.com
+58.145.238.27	r9---sn-30a7dn7s.c.android.clients.google.com
+58.145.238.27	r12---pek01s02.c.android.clients.google.com
+58.145.238.27	r13---pek01s02.c.android.clients.google.com
+58.145.238.27	r15---pek01s02.c.android.clients.google.com
+58.145.238.27	r16---pek01s02.c.android.clients.google.com
+58.145.238.27	r17---sn-30a7en76.c.android.clients.google.com
+58.145.238.27	r18---pek01s02.c.android.clients.google.com
+58.145.238.27	r19---pek01s02.c.android.clients.google.com
+58.145.238.27	r19---sn-i3b76n7l.c.android.clients.google.com
+58.145.238.27	r20---sn-npo7enel.c.android.clients.google.com
+58.145.238.27	r20---sn-i3b76n7e.c.android.clients.google.com
+58.145.238.27	r20---pek01s02.c.android.clients.google.com
+58.145.238.27	r21---pek01s02.c.android.clients.google.com
+
 #Google Services END
