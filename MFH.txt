@@ -520,11 +520,11 @@
 58.145.238.27	ngrams.googlelabs.com
 58.145.238.27	panoramio.com
 58.145.238.27	smarthosts.googlecode.com
-#58.145.238.27	ssl.google-analytics.com
+58.145.238.27	ssl.google-analytics.com
 58.145.238.27	static.panoramio.com
 58.145.238.27	www.blogger.com
 58.145.238.27	www.googleadservices.com
-#58.145.238.27	www.google-analytics.com
+58.145.238.27	www.google-analytics.com
 58.145.238.27	www.googlelabs.com
 58.145.238.27	www.googlesource.com
 58.145.238.27	www.panoramio.com
